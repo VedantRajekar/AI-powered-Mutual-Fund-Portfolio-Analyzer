@@ -14,11 +14,14 @@
 ### 🌌 Landing Page
 ![Landing Page](assets/Landing-Page.png)
 
-### 📊 Portfolio Analysis Dashboard
-![Analysis](assets/Analysis.png)
-
 ### 📈 Charts & Insights
 ![Charts](assets/Analysis-and-charts.png)
+![Charts](assets/Analysis-and-charts-2.png)
+![Charts](assets/Analysis-and-charts-3.png)
+![Charts](assets/Analysis-and-charts-4.png)
+
+### 📊 Portfolio Analysis Dashboard
+![Analysis](assets/Analysis.png)
 
 ### 🤖 AI Verdict Output
 ![AI Verdict](assets/AI%20Verdicts.png)
