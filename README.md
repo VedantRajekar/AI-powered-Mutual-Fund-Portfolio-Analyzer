@@ -9,6 +9,23 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🌌 Landing Page
+![Landing Page](assets/Landing-Page.png)
+
+### 📊 Portfolio Analysis Dashboard
+![Analysis](assets/Analysis.png)
+
+### 📈 Charts & Insights
+![Charts](assets/Analysis-and-charts.png)
+
+### 🤖 AI Verdict Output
+![AI Verdict](assets/AI%20Verdicts.png)
+
+---
+
+
 ## 📌 Problem Statement
 
 Indian retail investors hold mutual fund portfolios across multiple AMCs and fund types, but lack tools to:
