@@ -29,7 +29,7 @@
 ---
 
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Indian retail investors hold mutual fund portfolios across multiple AMCs and fund types, but lack tools to:
 - Understand their **true returns** vs benchmarks like Nifty 50
@@ -40,23 +40,23 @@ Indian retail investors hold mutual fund portfolios across multiple AMCs and fun
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
-| 📄 **CAS PDF Parsing** | Parses official CAMS/Kfintech Consolidated Account Statements |
-| 💰 **Investment Summary** | Total invested, current value, absolute gain/loss |
-| 📊 **Absolute Return %** | Calculates portfolio return with formula breakdown |
-| 🏆 **Best & Worst Fund** | Ranks all funds by performance |
-| 🏦 **Nifty 50 Comparison** | Benchmarks your portfolio against Nifty 50's 14% avg |
-| 🤖 **AI Verdict** | Groq LLaMA 3.3 generates a one-line portfolio verdict |
-| 📉 **Overlap Detection** | Detects stock overlap between similar funds |
-| ⚠️ **Risk Indicators** | AMC concentration and equity/debt balance check |
-| 🎯 **Demo Mode** | Test instantly without a real CAS PDF |
+| **CAS PDF Parsing** | Parses official CAMS/Kfintech Consolidated Account Statements |
+| **Investment Summary** | Total invested, current value, absolute gain/loss |
+| **Absolute Return %** | Calculates portfolio return with formula breakdown |
+| **Best & Worst Fund** | Ranks all funds by performance |
+| **Nifty 50 Comparison** | Benchmarks your portfolio against Nifty 50's 14% avg |
+| **AI Verdict** | Groq LLaMA 3.3 generates a one-line portfolio verdict |
+| **Overlap Detection** | Detects stock overlap between similar funds |
+| **Risk Indicators** | AMC concentration and equity/debt balance check |
+| **Demo Mode** | Test instantly without a real CAS PDF |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -156,11 +156,11 @@ The app will open automatically at **http://localhost:8501**
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### Option A — Demo Mode (No PDF needed)
 1. Open the app at `http://localhost:8501`
-2. Click **"🎯 Load Demo Portfolio"** in the sidebar
+2. Click **" Load Demo Portfolio"** in the sidebar
 3. View the full AI analysis for a sample portfolio (Rahul Sharma)
 
 ### Option B — Real CAS PDF
@@ -171,7 +171,7 @@ The app will open automatically at **http://localhost:8501**
    - Password = your registered email address
 2. Upload the PDF in the sidebar
 3. Enter your email as the PDF password
-4. Click **"🚀 Analyze Portfolio"**
+4. Click **" Analyze Portfolio"**
 
 ---
 
@@ -216,7 +216,7 @@ The app will open automatically at **http://localhost:8501**
 
 ---
 
-## 🔑 API Keys & Cost
+##  API Keys & Cost
 
 | Service | Cost | Limit |
 |---|---|---|
@@ -224,7 +224,7 @@ The app will open automatically at **http://localhost:8501**
 | **casparser** | Free | Open source |
 | **Streamlit** | Free | Open source |
 
-> 💡 This project runs entirely on **free APIs** — no credit card required.
+>  This project runs entirely on **free APIs** — no credit card required.
 
 ---
 
@@ -256,29 +256,16 @@ in HDFC (47%) poses a risk that should be addressed.**
 
 ---
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 - casparser only works with official **CAMS and Kfintech** CAS PDFs
 - XIRR calculation requires transaction dates (estimated if not available)
 - AI verdict is for **informational purposes only** — not financial advice
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes please open an issue first.
-
----
 
 ## 📄 License
 
 MIT License — free to use and modify.
-
----
-
-## 👨‍💻 Author
-
-Built with ❤️ for the Unstop Hackathon
 
 ---
 
