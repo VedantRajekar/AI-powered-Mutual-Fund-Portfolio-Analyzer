@@ -1,4 +1,4 @@
-# 🔬 MF Portfolio X-Ray AI
+#  MF Portfolio X-Ray AI
 
 > **AI-powered Mutual Fund Portfolio Analyzer** — Upload your CAMS/Kfintech CAS statement and get institutional-grade insights in seconds.
 
@@ -69,7 +69,7 @@ Indian retail investors hold mutual fund portfolios across multiple AMCs and fun
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 mf-portfolio-xray/
@@ -228,7 +228,7 @@ The app will open automatically at **http://localhost:8501**
 
 ---
 
-## 🧪 Sample Output
+##  Sample Output
 
 ```
 ## 1. Investment Summary
