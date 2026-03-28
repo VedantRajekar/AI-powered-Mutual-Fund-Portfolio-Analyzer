@@ -86,7 +86,7 @@ mf-portfolio-xray/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Python 3.9 or above
